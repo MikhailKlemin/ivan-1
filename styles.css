@@ -1,0 +1,38 @@
+body {
+    padding: 10px 20px;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+#morse {
+    display: flex;
+    flex-direction: column;
+}
+
+.sousTitre {
+    font-size: 200%;
+}
+
+.puce {
+    margin-bottom: 10px;
+}
+
+#ligne {
+    display: flex;
+}
+
+#imageMorse {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    img {
+        padding: 10px;
+    }
+}
+
+.table {
+    width: 100%;
+
+}
